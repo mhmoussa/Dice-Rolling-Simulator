@@ -1,7 +1,4 @@
 # Dice Rolling Simulator
-Welcome to the Dice Rolling Simulator! Roll custom or standard dice with the click of a button. Get random results displayed in a user-friendly interface. Easily switch between options and enjoy a seamless experience. Have fun exploring various dice combinations and embrace the excitement of virtual dice rolling.
-
-# Dice Rolling Simulator
 
 Welcome to the Dice Rolling Simulator! This program allows you to simulate rolling dice with custom or standard options. It provides a user-friendly interface to input the number of dice and the number of sides for each roll. You can enjoy the thrill of virtual dice rolling and get random results with just a click of a button.
 
